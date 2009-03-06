@@ -1,11 +1,11 @@
 #summary Introduction
 = CnM Minibook Tools =
 
-The CnMbook is a tiny netbook with tiny everything: screen, keyboard, RAM.  It is also sold in the UK by Maplin as a 'minibook'.
+The !CnMbook is a tiny netbook with tiny everything: screen, keyboard, RAM.  It is also sold in the UK by Maplin as a 'minibook'.
 
 But it runs Linux, and so invites a certain amount of customisation.  That's what this project is for.
 
-''Important Note:'' CnMbook is a trademark of CnM Lifestyle Electronics.  I am not in any way associated with the product or the company that makes it.  But I applaud them for their excellent work.
+''Important Note:'' !CnMbook is a trademark of CnM Lifestyle Electronics.  I am not in any way associated with the product or the company that makes it.  But I applaud them for their excellent work.
 
 == Tools ==
 
