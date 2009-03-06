@@ -1,3 +1,5 @@
+#summary Make .deb into .info and .patch
+
 = Deb2Patch =
 
 This utility is a Python program (for Python 3), which re-packages a Debian package into
