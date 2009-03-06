@@ -1,3 +1,4 @@
+# Introduction
 = CnM Minibook Tools =
 
 The CnM Minibook is a tiny netbook with tiny everything: screen, keyboard, RAM.
