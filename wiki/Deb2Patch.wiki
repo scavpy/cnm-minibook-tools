@@ -7,13 +7,13 @@ This utility is a Python program (for Python 3), which re-packages a Debian pack
 
 Note that it doesn't run on the laptop itself, unless you have Python 3 already working on it. This is unlikely to be the case, so you want to do this on a 'normal' PC.
 
-There is no conflict or dependency resolution, nor any guarantee that installing the files won't hose your laptop if they overwrite something that has been carefully customised to work with the hardware.  ''Use with care.''
+There is no conflict or dependency resolution, nor any guarantee that installing the files won't hose your laptop if they overwrite something that has been carefully customised to work with the hardware.  *Use with care.*
 
 However, I have had some success with it.
 
 == Step 1 ==
 
-Find your Debian packages.  Make sure you get all the required dependencies.  A good place to find them is http://www.debian.org/distrib/packages.  Follow the download link for the ''mipsel'' architecture to get a `.deb`.
+Find your Debian packages.  Make sure you get all the required dependencies.  A good place to find them is http://www.debian.org/distrib/packages.  Follow the download link for the *mipsel* architecture to get a `.deb`.
 
 == Step 2 ==
 
