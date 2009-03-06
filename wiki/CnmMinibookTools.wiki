@@ -1,0 +1,15 @@
+= CnM Minibook Tools =
+
+The CnM Minibook is a tiny netbook with tiny everything: screen, keyboard, RAM.
+
+But it runs Linux, and so invites a certain amount of customisation.  That's what this project is for.
+
+''Important Note:'' CnM and Minibook may very well be trademarks for all I know.  I am not in any way associated with the product or the company that makes it.  But I applaud them for their excellent work.
+
+== Tools ==
+
+  * Deb2Patch - convert a `.deb` file from Debian's mipsel port into `.info` and `.patch` files suitable for the software installer on the laptop.
+
+== Tips ==
+
+ * RunMoreThan3Apps - how to run more than 3 applications at once (if you have enough RAM!).
