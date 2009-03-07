@@ -15,3 +15,7 @@ But it runs Linux, and so invites a certain amount of customisation.  That's wha
 
  * Always install the [http://www.littlelinuxlaptop.com/software/Getroot.htm root console patch] before you risk anything else. It should get you out of trouble in case you break X11 and can't get back to the desktop.
  * RunMoreThan3Apps - how to run more than 3 applications at once (if you have enough RAM!).
+
+== UPDATE: Disaster! ==
+
+I seem to have bricked the f***ing thing.  Well, that was fun while it lasted...
